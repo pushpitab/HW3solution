@@ -1,0 +1,21 @@
+<script>
+
+var makeCall = function(){
+
+	fetch("https://api-v3.mbta.com/vehicles?api_key=ca34f7b7ac8a445287cab52fb451030a&filter[route]=1&include=trip")
+		.then(response => response.json())
+		.then(json => {
+		    var vehicles = json.data;
+			console.log("Vehicle return"+JSON.stringify(vehicles));
+			console.log(vehicles.length)
+		});
+
+		// var add= function (a, b){
+		// 	return a+b
+		// }
+
+		//console.log(add(5,3)+"added")
+}
+makeCall();
+
+</script>                

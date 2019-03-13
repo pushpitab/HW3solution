@@ -1,0 +1,34 @@
+Vehicle return[
+{"attributes":
+{"bearing":355,
+"current_status":"IN_TRANSIT_TO",
+"current_stop_sequence":8,
+"direction_id":0,
+"label":"1744",
+"latitude":42.33610534667969,
+"longitude":-71.07647705078125,
+"speed":null,
+"updated_at":"2019-03-01T10:18:11-05:00"},
+
+
+"id":"y1744",
+"links":{"self":"/vehicles/y1744"},
+"relationships":{"route":{"data":{"id":"1","type":"route"}},
+"stop":{"data":{"id":"10590","type":"stop"}},
+"trip":{"data":{"id":"39366257","type":"trip"}}},
+"type":"vehicle"},
+
+
+{"attributes":
+    {"bearing":138,
+        "current_status":"IN_TRANSIT_TO",
+        "current_stop_sequence":21,
+        "direction_id":1,
+        "label":"1746",
+        "latitude":42.338260650634766,
+        "longitude":-71.07917785644531,
+        "speed":null,"updated_at":"2019-03-01T10:18:12-05:00"},
+        "id":"y1746","links":{"self":"/vehicles/y1746"},
+        "relationships":{"route":{"data":{"id":"1","type":"route"}},
+        "stop":{"data":{"id":"59","type":"stop"}},
+        "trip":{"data":{"id":"39366148","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":17,"direction_id":1,"label":"1797","latitude":42.34366989135742,"longitude":-71.086181640625,"speed":null,"updated_at":"2019-03-01T10:17:56-05:00"},"id":"y1797","links":{"self":"/vehicles/y1797"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"82","type":"stop"}},"trip":{"data":{"id":"39366218","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":18,"direction_id":0,"label":"1814","latitude":42.36276626586914,"longitude":-71.09922790527344,"speed":null,"updated_at":"2019-03-01T10:18:10-05:00"},"id":"y1814","links":{"self":"/vehicles/y1814"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"101","type":"stop"}},"trip":{"data":{"id":"39366192","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":13,"direction_id":0,"label":"1831","latitude":42.342529296875,"longitude":-71.08494567871094,"speed":null,"updated_at":"2019-03-01T10:18:07-05:00"},"id":"y1831","links":{"self":"/vehicles/y1831"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"91","type":"stop"}},"trip":{"data":{"id":"39366145","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":17,"direction_id":1,"label":"1843","latitude":42.3437614440918,"longitude":-71.08606719970703,"speed":null,"updated_at":"2019-03-01T10:18:03-05:00"},"id":"y1843","links":{"self":"/vehicles/y1843"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"82","type":"stop"}},"trip":{"data":{"id":"39366170","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":23,"direction_id":1,"label":"1857","latitude":42.3338508605957,"longitude":-71.07366180419922,"speed":null,"updated_at":"2019-03-01T10:18:10-05:00"},"id":"y1857","links":{"self":"/vehicles/y1857"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"856","type":"stop"}},"trip":{"data":{"id":"39366249","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":0,"current_status":"IN_TRANSIT_TO","current_stop_sequence":1,"direction_id":0,"label":"1897","latitude":42.37309646606445,"longitude":-71.11774444580078,"speed":null,"updated_at":"2019-03-01T10:18:07-05:00"},"id":"y1897","links":{"self":"/vehicles/y1897"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"110","type":"stop"}},"trip":{"data":{"id":"39366149","type":"trip"}}},"type":"vehicle"},{"attributes":{"bearing":90,"current_status":"IN_TRANSIT_TO","current_stop_sequence":1,"direction_id":1,"label":"1906","latitude":42.32960891723633,"longitude":-71.08357238769531,"speed":null,"updated_at":"2019-03-01T10:17:44-05:00"},"id":"y1906","links":{"self":"/vehicles/y1906"},"relationships":{"route":{"data":{"id":"1","type":"route"}},"stop":{"data":{"id":"64","type":"stop"}},"trip":{"data":{"id":"39366265","type":"trip"}}},"type":"vehicle"}]
